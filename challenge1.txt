@@ -1,3 +1,4 @@
 Hello from challenge 1
 New branch created
 Commit 1
+Commit 2
